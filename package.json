@@ -1,0 +1,22 @@
+{
+  "name": "bento",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takamoso/bento.git"
+  },
+  "keywords": [
+    "Sass",
+    "SCSS",
+    "style",
+    "framewrok"
+  ],
+  "author": "@takamosoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takamoso/bento/issues"
+  },
+  "homepage": "https://github.com/takamoso/bento#readme"
+}
