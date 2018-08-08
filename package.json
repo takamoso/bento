@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/takamoso/bento/issues"
   },
-  "homepage": "https://github.com/takamoso/bento#readme"
+  "homepage": "https://github.com/takamoso/bento#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.56",
+    "@babel/preset-env": "^7.0.0-beta.56",
+    "@babel/register": "^7.0.0-beta.56",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "babel": {
+    "presets": ["@babel/preset-env"]
+  }
 }
